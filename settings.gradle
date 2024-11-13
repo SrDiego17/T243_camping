@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "T243_camping"
+rootProject.name = "Camping"
 include ':app'
